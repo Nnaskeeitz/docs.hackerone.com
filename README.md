@@ -1,4 +1,4 @@
-[![Gatsby Publish](https://github.com/Hacker0x01/docs.hackerone.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/Hacker0x01/docs.hackerone.com/actions/workflows/deploy.yml)
+[![nnaski Publish](https://github.com/Hacker0x01/docs.hackerone.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/Hacker0x01/docs.hackerone.com/actions/workflows/deploy.yml)
 
 # docs.hackerone.com
 
